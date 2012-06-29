@@ -1,1 +1,1 @@
-This contains a setup database for the dragonpirme engine, with modules and seting ready. Import it into your database before using the game installer. Note: This does not work if you already have a working Dragonprime game engine and want to update it.
+This contains a setup database for the dragonprime engine, with modules and seting ready. Import it into your database before using the game installer. Note: This does not work if you already have a working Dragonprime game engine and want to update it.
